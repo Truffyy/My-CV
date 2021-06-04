@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    
+}
+
+.colonne {
+    display: grid;
+
+grid-template-columns: 25% 75%;
+width: 100%;
+}
+.one {
+    background-color: #ffcc99;
+    color:rgb(59, 54, 54);
+    border: 2px solid black;
+    padding-bottom: 225px;
+    padding-left: 10px;
+    
+}
+.two {
+    background-color: ;
+    width: 100%;
+   font-size: 20px;
+   padding-left: 10px;
+ padding-top: 105px;
+ color:rgb(59, 54, 54);
+}
+
+.photo {
+    padding-left: 35%;
+}
+.nom {
+    padding-left: 20%;
+}
+
+ul {
+    font-size: 25px;
+}
+.phrase {
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
